@@ -6,3 +6,12 @@ Añade en última posición la ciudad de París.
 Escribe por pantalla el elemento que ocupa la segunda posición.
 Sustituye el elemento que ocupa la segunda posición por la ciudad de 'Barcelona'.
 */
+const ciudades = ["paris"]
+do{
+    let anadidas = prompt("ingresa el nombre de una ciudad")
+    ciudades.unshift(anadidas);
+}while(confirm ("desea realizar otra operacion"));
+    document.writeln("<ul>")
+    for(let lista=0;lista <=ciudades.length-1;lista++){
+        document.writeln("<li>",ciudades[lista],"</li>")
+    }
