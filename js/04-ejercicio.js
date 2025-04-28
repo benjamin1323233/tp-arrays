@@ -3,7 +3,6 @@
  Mostrar por pantalla el resultado devuelto por la función.*/
  function paroimpar(){
     const numero = parseInt(prompt("escribe un numero para saber si es par o impar"))
-    let texto = "" 
 if (numero % 2 == 0){
   document.writeln("tu numero es par")
 }else{
