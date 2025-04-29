@@ -18,18 +18,18 @@ La estructura del proyecto permite entender de manera progresiva cómo trabajar 
 
 ## Estructura del proyecto
 
-│ ├── css/ 
-│ └── style.css # Archivo de estilos para la página 
-│ ├── js/ 
-│ ├── 01-ejercicio.js ###lista de meses
-│ ├── 02-ejercicio.js ###ingresar ciudades
-│ ├── 03-ejercicio.js ###resultado de dados
-│ ├── 04-ejercicio.js ###par o impar
-│ ├── 05-ejercicio.js ###mayuscula o minuscula
-│ ├── 06-ejercicio.js ###calcular perimetro
-│ └── 07-ejercicio.js ###tabla de multiplicar
-├── index.html # Página principal donde se enlazan los ejercicios 
-└── README.md # Documentación del proyecto
+│ ├── css/ <br>  
+│ └── style.css # Archivo de estilos para la página <br>  
+│ ├── js/ <br>  
+│ ├── 01-ejercicio.js ###lista de meses<br>  
+│ ├── 02-ejercicio.js ###ingresar ciudades<br>  
+│ ├── 03-ejercicio.js ###resultado de dados<br>  
+│ ├── 04-ejercicio.js ###par o impar<br>  
+│ ├── 05-ejercicio.js ###mayuscula o minuscula<br>  
+│ ├── 06-ejercicio.js ###calcular perimetro<br>  
+│ └── 07-ejercicio.js ###tabla de multiplicar<br>  
+├── index.html # Página principal donde se enlazan los ejercicios<br>  
+└── README.md # Documentación del proyecto<br>  
 
 ---
 
